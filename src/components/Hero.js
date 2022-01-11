@@ -41,7 +41,7 @@ const Hero = () => {
                 Contact me
               </Link>
 
-              <a href="https://drive.google.com/drive/u/0/folders/1yjkFdbniFzWGpph5Mf6_zGl_hhEA42cT" blank="_target" className="btn">
+              <a download href='getresume' className="btn">
                 Get Resume
               </a>
             </div>
