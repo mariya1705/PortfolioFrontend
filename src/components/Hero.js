@@ -33,15 +33,15 @@ const Hero = () => {
               Hey, I'm a <span>website</span> developer.
             </h1>
             <p className="hero-paragraph">
-              Hi, I'm Rehan a freelance web developer from Hyderabad,India. I
-              help brands turn their ideas into high quality products.
+              Hello! My name is Rehan Ali. I am a Canada-based developer. 
+              I have a diverse set of skills, ranging from design to HTML+CSS+JAVASCRIPT, all the way to React.js, Redux, and UI/UX.
             </p>
             <div className="hero-buttons">
               <Link to="/contact" className="btn1">
                 Contact me
               </Link>
 
-             <a href="https://drive.google.com/file/d/1YRyGmty3r7pAEouA9dklo0aud1bO1DB3/view" blank="_target" className="btn">
+             <a href="https://drive.google.com/file/d/1C0i8rbQ9w9D4eltDfzSHeW2-XuKsmTSp/view" blank="_target" className="btn">
                 Get Resume
               </a>
             </div>
